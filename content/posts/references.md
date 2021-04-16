@@ -1,6 +1,5 @@
 ---
 title: "References"
-draft: true
 ---
 
 # Philosophy and social sciences
@@ -23,7 +22,6 @@ draft: true
 # Software Architecture
 
 * [Designing Data-Intensive Applications by Martin Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) - maybe the best book on data storages I've ever read.
-
 
 
 
