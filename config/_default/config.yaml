@@ -1,4 +1,4 @@
-baseURL: "http://example.org/"
+baseURL: "https://palestamp.github.io/blog/"
 languageCode: "en-us"
 title: "Midnight Provolone"
 theme: "simple-style"
