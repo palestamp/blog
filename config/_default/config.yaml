@@ -1,0 +1,6 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Midnight Provolone"
+theme: "simple-style"
+author: "Stas Kazhavets"
+copyright: "&copy; {currentYear} Stas Kazhavets."
