@@ -7,7 +7,7 @@
 </div>
 <ul>
   {{ range .Paginator.Pages -}}
-  <li>{{ with .Date }}{{ .Format "2006-01-02 15:04" }} - {{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Description }}: {{ . }}{{ end }}</li>
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Description }}: {{ . }}{{ end }}</li>
   {{ end -}}
 </ul>
 </main>
