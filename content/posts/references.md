@@ -21,6 +21,8 @@ title: "References"
 
 # Software Architecture
 
+* [Technology Radar](https://www.thoughtworks.com/radar) - Thought Works opinionated guide on technology.
+
 * [Designing Data-Intensive Applications by Martin Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) - maybe the best book on data storages I've ever read.
 
 
