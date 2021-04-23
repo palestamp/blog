@@ -6,9 +6,6 @@
 {{ partial "html-meta.html" . -}}
 <title>{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
 <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | relURL }}">
-{{ with .Site.Params.favicon -}}
-<link rel="icon" href="{{ . }}" type="image/x-icon">
-{{ end -}}
 {{ if .Site.Params.GoogleAnalyticsID }}
 {{ partial "analytics-gtag.html" . }}
 {{ end }}
