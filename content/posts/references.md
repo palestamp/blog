@@ -18,6 +18,8 @@ title: "References"
 
 * [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate) - incredible book that scientifically proves a connection between DevOps practices and organizational performance. For more information explore [DORA's research program](https://www.devops-research.com/research.html).
 
+* [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124) - ACM article on developer productivity framework.
+
 
 ## Software Architecture
 
