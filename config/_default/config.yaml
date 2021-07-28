@@ -4,3 +4,10 @@ title: "Midnight Provolone"
 theme: "simple-style"
 author: "Stas Kazhavets"
 copyright: "&copy; {currentYear} Stas Kazhavets."
+
+markup:
+  highlight:
+    style: github
+  goldmark:
+    renderer:
+      unsafe: true
